@@ -4,7 +4,7 @@
 
 [Email](mailto:tidane@gmail.com) / [LinkedIn](https://www.linkedin.com/in/agustinjaimes/) / [GitHub](https://github.com/agusjava/) / [Twitter](https://twitter.com/agusjava08/) / [dev.to](https://dev.to/)
 
-## 👩🏼‍💻 Technical Experience
+## 👨‍💻 Technical Experience
 
 **iOS Developer** @ [Ualá](https://ua.la/) _(Sep 2021 - Present)_
 
@@ -31,7 +31,7 @@ It is a global outsourcing focused in providing software solutions.
 **English**: Full professional
 **French**: Working Professional
 
-## 👩🏼‍🎓 Education
+## 👨‍🎓 Education
 
 **Professional Bachelor's Degree** in Mobile and Internet Development
 [Université de Lorraine - IUT SD](https://iutsd.univ-lorraine.fr/lp-amio/) - Saint Dié des Vosges, France _(Jul 2011 - Jun 2012)_
