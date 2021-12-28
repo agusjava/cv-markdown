@@ -2,18 +2,17 @@
 
 ### iOS Developer from Mexico 🇲🇽
 
-[Email](mailto:tidane@gmail.com) / [LinkedIn](https://www.linkedin.com/in/agustinjaimes/) / [GitHub](https://github.com/agusjava/) / [Twitter](https://twitter.com/agusjava08/) / [dev.to](https://dev.to/)
+[Email](mailto:tidane@gmail.com) / [LinkedIn](https://www.linkedin.com/in/agustinjaimes/) / [GitHub](https://github.com/agusjava/) / [Twitter](https://twitter.com/agusjava08/) / [dev.to](https://dev.to/) <br />
 
 ## 👨‍💻 Technical Experience
-
 **iOS Developer** @ [Ualá](https://ua.la/) _(Sep 2021 - Present)_ <br />
-Fintech that allows to manage all your finances from an app and a card. 
+Fintech that allows to manage all your finances from an app and a card. <br />
   - Implementing features that improve the UI and accessibility of the integrations platform Developing new features to improve the current business logic and UI/UX. <br />
   - Implementing features for authentication and security. <br />
   - **Technologies used:** Swift, XCTest, XCUITest, Snapshot Testing, UIKit, SwiftUI. <br />
 
 **iOS Developer** @ [Globant](http://globant.com/) _(Dec 2015 - Sep 2021)_ <br />
-It is a global outsourcing focused in providing software solutions.
+It is a global outsourcing focused in providing software solutions. <br />
   - @GAP Inc - Develop a corporate solution to allow associates in stores to fulfill e-comerce orders. <br />
   - @Cars.com - Maintenance of the iOS app. Improving UI and UX to newest iOS versions. <br />
   - **Technologies used:** Swift, Objective C, XCTest, XCUITest, Snapshot testing. <br />
