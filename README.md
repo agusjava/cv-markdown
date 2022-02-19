@@ -2,7 +2,7 @@
 
 ### iOS Developer from Mexico 🇲🇽
 
-[Email](mailto:tidane@gmail.com) / [LinkedIn](https://www.linkedin.com/in/agustinjaimes/) / [GitHub](https://github.com/agusjava/) / [Twitter](https://twitter.com/agusjava08/) / [dev.to](https://dev.to/) <br />
+[Email](mailto:tidane@gmail.com) / [LinkedIn](https://www.linkedin.com/in/agustinjaimes/) / [GitHub](https://github.com/agusjava/) <br />
 
 ## 👨‍💻 Technical Experience
 **iOS Developer** @ [Ualá](https://ua.la/) _(Sep 2021 - Present)_ <br />
