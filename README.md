@@ -7,8 +7,12 @@ Mobile: 556-702-0892 / Email: tidane@gmail.com / [LinkedIn](https://www.linkedin
 ## 👨‍💻 Technical Experience
 **iOS Developer** @ [Ualá](https://ua.la/) _(Sep 2021 - Present)_ <br />
 Fintech that allows to manage all your finances from an app and a card. <br />
+  - Evolving everything about Authentication in app: Auth0, Cognito, MFA authentication, MFA association.
+  - Creating components from scratch and adapting them to be reusable and configurable.
+  - Mentoring interns.
   - Implementing features that improve the UI and accessibility of the integrations platform Developing new features to improve the current business logic and UI/UX. <br />
   - Implementing features for authentication and security. <br />
+
   - **Technologies used:** Swift, XCTest, XCUITest, Snapshot Testing, UIKit, SwiftUI. <br />
 
 **iOS Developer** @ [Globant](http://globant.com/) _(Dec 2015 - Sep 2021)_ <br />
