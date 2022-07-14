@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Agus Jaimes CV
 description: I like talking about stocks and videogames
+- name: Webpage to PDF
+  uses: misaelnieto/web_to_pdf_action@v0.3.1
